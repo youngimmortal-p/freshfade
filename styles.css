@@ -1,0 +1,7 @@
+html{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+#home{
+    background-image: url("./images/heroimg2.jpg");
+}
