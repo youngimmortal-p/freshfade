@@ -5,3 +5,6 @@ html, body{
 #home{
     background-image: url("./images/heroimg2.jpg");
 }
+#preloader {
+    transition: opacity 0.5s ease;
+  }
